@@ -1,0 +1,4 @@
+__pycache__/
+labels*
+output.csv
+output.xlsx
